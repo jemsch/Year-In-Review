@@ -1,0 +1,51 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+  }
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #93241c;
+}
+
+.h1-container {
+    background-color: #c4c4c4;
+width: auto;
+}
+    
+li {
+    font-family: 'Oswald', sans-serif;
+    size: 18px;
+    display: inline;
+    padding: 15px;
+
+}
+
+ul {
+    width: 100%;
+    padding: 0px;
+}
+
+#name {
+    float: right;
+    color: #93241c;
+    font-size: 30px;
+    padding: 5px, 15px;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+
+}
+
+.navbar-link {
+    align-self: baseline;
+}
