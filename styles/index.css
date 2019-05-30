@@ -34,6 +34,14 @@ h4 {
     margin-bottom: 20px;
 }
 
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
 .h1-container {
     background-color: #c4c4c4;
     width: auto;
